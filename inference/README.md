@@ -1,6 +1,6 @@
 # Structure-wise Uncertainty for 3D Segmentation
 
-This repository contains code for computing structure-wise uncertainty of 3D .tiff volumes. I have also provided some data samples to verify that the code runs on your end.
+This repository contains code for computing structure-wise uncertainty of 3D .tiff volumes. I have also provided some data samples to verify that the code runs on your end. Data and checkpoints are in unzipMe.zip (which was added to the repo via Git LFS)
 
 ## Table of Contents
 
