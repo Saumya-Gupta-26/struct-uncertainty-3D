@@ -1,6 +1,6 @@
 # Structure-wise Uncertainty for 3D Segmentation
 
-This repository contains training code for 3D structure-wise uncertainty of tiff volumes. The inference/testing code is separate and has been provided earlier.
+This repository contains training code for 3D structure-wise uncertainty of tiff volumes. The inference/testing code is separate and has been provided earlier. Data/checkpoints/dipha in unzipMe.zip
 
 ## 1. Environment Setup
 Please follow environment setup instructions from inference code (both environment setup as well as DIPHA)
